@@ -1,6 +1,3 @@
-JiayiSong #2079007
-XunGong#2055079
-
 
 README -- Simplified xv6 Shell
 
